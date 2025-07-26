@@ -3,6 +3,7 @@
 Welcome to the **InShop_Web Application**! 
 <br/>
 This project is a **responsive web-based application** designed to simulate or provide an interface for an online shop. 
+<br/>
 Developed using core web technologies like **JavaScript, CSS, and HTML**, it aims to deliver an interactive and visually appealing user experience.
 
 ---
